@@ -1,0 +1,44 @@
+{
+    "color_scheme": "Packages/Colorsublime - Themes/Tomorrow_Night_Eighties.tmTheme",
+    "font_size": 24,
+
+    // Set to true to insert spaces when tab is pressed
+    "translate_tabs_to_spaces": true,
+
+    // Set to true to draw a border around the visible rectangle on the minimap.
+    // The color of the border will be determined by the "minimapBorder" key in
+    // the color scheme
+    "draw_minimap_border": true,
+
+    // Set to true to ensure the last line of the file ends in a newline
+    // character when saving
+    "ensure_newline_at_eof_on_save": true,
+
+    // If true, the selected text will be copied into the find panel when it's
+    // shown.
+    // On OS X, this value is overridden in the platform specific settings, so
+    // you'll need to place this line in your user settings to override it.
+    "find_selected_text": true,
+
+    //
+    // User Interface Settings
+    //
+
+    // Display file encoding in the status bar
+    "show_encoding": false,
+
+    //
+    // Application Behavior Settings
+    //
+
+    // Set to true to close windows as soon as the last file is closed, unless
+    // there's a folder open within the window.
+    // On OS X, this value is overridden in the platform specific settings, so
+    // you'll need to place this line in your user settings to override it.
+    "close_windows_when_empty": false,
+
+    "ignored_packages":
+    [
+       "Vintage"
+    ]
+}
